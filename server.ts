@@ -8,7 +8,7 @@ interface Message {
 }
 
 const app = express();
-const conversationsDir = process.env.LLT_PATH + '/msg';
+const conversationsDir = process.env.LLT_PATH + '/ll';
 
 app.use(express.static('public'));
 
