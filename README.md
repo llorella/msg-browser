@@ -1,6 +1,8 @@
 # ll-browser
 generate a lean web ui for exploring message records, documentation of text interactions 
 
+![Screenshot from 2024-04-04 22-22-46](https://github.com/llorella/msg-browser/assets/110218399/f8f20783-faf2-4738-930d-03f6e7c14388)
+
 ### relation with llt
 ll-browser was initialized by llt process run by repo author on a Linux box. 
 ```bash
